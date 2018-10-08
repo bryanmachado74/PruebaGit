@@ -9,6 +9,7 @@
     <asp:ContentPlaceHolder runat="server" ID="HeadContent" />
 </head>
 <body>
+    <!-- Este es solo un comentario de prueba para el git -->
     <form id="form1" runat="server">
     <div>
         <h1>Mobile Master Page</h1>
